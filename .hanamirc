@@ -1,0 +1,4 @@
+project=doppelconf
+architecture=container
+test=minitest
+template=erb
